@@ -77,6 +77,12 @@
       "subject": "Arabic",
       "stars": 5,
       "review": "Amazing!"
+    },
+    {
+      "professor": "Ali Sharifian",
+      "subject": "CECS 328: Algorithms ",
+      "stars": 5,
+      "review": "One of the best Algo. professor"
     }
   ]
 }
